@@ -1,8 +1,8 @@
 clear
 sudo pip3 install --upgrade pip
 sudo pip3 install beautifulsoup4
-sudo cp animewalp.py /usr/bin/animewalp.py
-sudo chmod +x /usr/bin/animewalp.py
+sudo cp animewalp /usr/bin/animewalp
+sudo chmod +x /usr/bin/animewalp
 mkdir /home/$USER/Pictures/anime-wallpapers
 clear
 echo "| |  | |     | | | | (_)                 | |                  | |
