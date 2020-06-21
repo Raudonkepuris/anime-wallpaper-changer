@@ -7,9 +7,15 @@ This script goes on [wallhaven](wallhaven.cc) finds random 1980x1080 NSFW anime 
 
 ## Installation :
 
-(Currently only tested on Manjaro GNOME)
+### Linux
+
+(Currently only tested on Manjaro GNOME but should work on any other distro with GNOME desktop enviroment)
 
 ```sh
 chmod +x install.sh
 ./install.sh
 ```
+
+### Windows
+
+There's no installation on windows, just run the script, should work.
