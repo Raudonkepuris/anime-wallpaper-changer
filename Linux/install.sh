@@ -1,7 +1,6 @@
 clear
 sudo pip install --upgrade pip
 sudo pip install beautifulsoup4
-sudo pip install requests
 sudo cp animewalp.py /usr/bin/animewalp.py
 sudo chmod +x /usr/bin/animewalp.py
 mkdir /home/$USER/Pictures/anime-wallpapers
