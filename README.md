@@ -7,6 +7,8 @@ This script goes on [wallhaven](wallhaven.cc) finds random 1980x1080 NSFW anime 
 
 ## Installation :
 
+##### The only non-standart library is beautifulsoup4, install.sh will automatically install it for you with pip
+
 ### Linux
 
 (Currently only tested on Manjaro GNOME but should work on any other distro with GNOME desktop enviroment)
