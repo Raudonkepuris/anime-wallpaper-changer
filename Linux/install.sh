@@ -19,5 +19,5 @@ Script for finding perfect anime girl for your desktop
 By Raudonkepuris
 
 Begin using by writing
-animewalp.py -n
+animewalp -n
 (images will PROBABLY be saved to /home/YOUR USERNAME/Pictures/anime-wallpapers)"
